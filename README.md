@@ -9,3 +9,4 @@ Exercícios e resumos de Arquitéturas Móveis
 ## Exercícios: [Aqui](https://github.com/Daniel-Albino/Arquiteturas-Moveis/tree/master/Exercicios)
 
 - [Calculator](https://github.com/Daniel-Albino/Arquiteturas-Moveis/tree/master/Exercicios/Calculator)
+- [Sketches](https://github.com/Daniel-Albino/Arquiteturas-Moveis/tree/master/Exercicios/Sketches)
